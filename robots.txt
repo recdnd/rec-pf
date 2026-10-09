@@ -1,0 +1,38 @@
+# pf.rec.ooo - Xue Juntao (Rec Dungeons) resume. All rights reserved.
+# AI training, text and data mining, and dataset collection are NOT permitted.
+# AI search and user-requested fetches are allowed, so this resume can be found and read on request.
+# Express reservation of rights (Article 4(3), Directive (EU) 2019/790). Terms: https://rec.ooo/licensing
+
+User-agent: GPTBot
+User-agent: CCBot
+User-agent: Google-Extended
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Applebot-Extended
+User-agent: Bytespider
+User-agent: meta-externalagent
+User-agent: cohere-training-data-crawler
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: img2dataset
+User-agent: Diffbot
+User-agent: Omgilibot
+User-agent: omgili
+User-agent: ImagesiftBot
+User-agent: Timpibot
+User-agent: PanguBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://pf.rec.ooo/sitemap.xml
